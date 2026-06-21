@@ -6,8 +6,10 @@ This project is made with the aim of familiarising myself with Git and AI tools 
 
 ## Tools installed
 
-Installed Cursor AI and installed extensions (Claude Code and Codex)
-Added necessary API keys
+Installed Cursor AI and installed extensions (Claude Code and Codex).
+
+Added necessary API keys.
+
 Creators added can be found in the "creators.txt" file
 
 ## Insights
