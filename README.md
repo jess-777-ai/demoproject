@@ -20,6 +20,8 @@ One thing I noticed was that not every creator provided the same level of value 
 
 ## Insights
 
-I chose a mix of purely sales/outreach pipeline creators, tech creators (who automate their pipelines, not necessarily B2B) and also tech + B2B creators.
+I chose a mix of purely sales/outreach pipeline creators, tech creators (who automate their pipelines, not necessarily B2B) and also tech + B2B creators. 
+
+I selected these 10 creators because they each talk about different parts of building and growing a business. Some focus on sales and outreach, others on AI, SaaS, automation, or business growth. Instead of following just one person's advice, I wanted a variety of perspectives to better understand how successful people find customers, make sales, and grow their businesses.
 
 I've come to realize that some creators might proivde a lot of content on certain platforms and not necessarily maintain the same information value on other platforms (and that's totally fine), but this again ties into data sourcing and pre-processing. You can gain a range of insights and perspectives simply by diversifying your search, and I think that's the main takeaway at this stage of the project.
