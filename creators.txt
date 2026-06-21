@@ -1,0 +1,4 @@
+# One creator per line (channel ID or @handle)
+# Example:
+# UCxxxxxxxxxxxxxxxxxxxxxx
+# @channelname
