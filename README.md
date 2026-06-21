@@ -1,4 +1,4 @@
-# Demo Project
+# Cold outreach pipeline for B2B SaaS - A Demo Project
 
 ## Description
 
